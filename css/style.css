@@ -1,0 +1,90 @@
+.bg-body-tertiarys{
+    background-color: #272727 !important;
+}
+.nav-link{
+    color: white !important;    
+    font-family: "Fira Sans",sans-serif;
+    color: white !important;
+}
+.navbar-toggler{
+    background-color: white !important;
+}
+
+.navbar-collapse{
+    flex-grow: 0 !important;
+}
+
+.Cormorant-Garamond{
+    font-family: "Cormorant Garamond", serif;
+    text-transform: uppercase;
+}
+.fira-sans{
+    font-family: "Fira Sans", sans-serif;
+    font-size: 2rem;
+    color: white;
+    text-transform: uppercase;
+}
+
+.tittle-background{
+    background-color: #f6f6e9;
+}
+.row {
+    margin-left: auto !important;
+}
+.row.flex-lg-row-reverse.align-items-center.g-5.py-5{
+    margin-right: 0%;
+    justify-content: center;
+}
+
+.profile-background{
+    background-color: #7d9b76;
+}
+.profile-img {
+    border-radius: 50%;
+    height: 200px;
+}
+.p-colour{
+    color: white;
+}
+.feature-icon {
+    width: 4rem;
+    height: 4rem;
+    border-radius: .75rem;
+}
+
+.skill-colour{
+    background-color: #cbddd1;
+}
+
+.footer-colour{
+    background-color: #457d58;
+}
+
+/* service style */
+
+.hr.featurette-divider{
+    margin: 0px !important;
+}
+.featurettes{
+    background-color: #61a6ab;
+}
+.row.featurette.pt-3{
+    margin-right: 0%;
+}
+.row.featurette{
+    margin-right: 0%;
+}
+.fira-san{
+    font-family: "Fira Sans", sans-serif;
+    font-size: 2rem;
+    color: #212529;
+    text-transform: uppercase;
+}
+.border-bottom-service{
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: #51858a;
+}
+.footer-service-colour{
+    background-color: #f6f6e9;
+}
